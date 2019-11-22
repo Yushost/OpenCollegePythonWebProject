@@ -12,10 +12,10 @@ for value in a.values():
 for item in a.items():
     print(item)
 
-# 특정횟수만큼 반복하고 싶을 떄 - range 사용
-
+# 특정횟수만큼 반복하고 싶을 떄 - range 사용 ( 위에꺼랑 상관없음 )
 for a in range(10):
     print(a)
+
 
 
 
